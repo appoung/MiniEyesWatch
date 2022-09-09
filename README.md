@@ -1,6 +1,7 @@
 # MiniEyesWatch
 
 ***시각장애인들의 눈이되주는 워치***
+라즈베리파이에서 카메라로 앞에있는 물건을 인식해서 스피커로 알려준다
 ![blueprint](/img/blueprint.jpg)
 ## Hardware
 * RaspberryPi Zero 2 W
