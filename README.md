@@ -20,6 +20,6 @@
 라즈베리파이에서 카메라로 사진을 찍고 노트북으로 전송해서 노트북에서 머신러닝 돌리기.(시도할것임)
 ### Software
 * Python3
-* Flask (사진 주고받는 서버 만들것)
+* Flask (사진 주고받는 서버 만들것!)
 * tensorflow
 * techablemachine
