@@ -22,4 +22,4 @@
 * Python3
 * Flask (사진 주고받는 서버 만들것!)
 * tensorflow
-* techablemachine
+* techablemachine.
